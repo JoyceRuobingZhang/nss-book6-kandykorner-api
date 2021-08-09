@@ -1,0 +1,73 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name": "Skittles",
+            "productTypeId": 1,
+            "price": 1.99
+        },
+        {
+            "id":2,
+            "name": "Milk Duds",
+            "productTypeId": 3,
+            "price": 2.99
+        },
+        {
+            "id":3,
+            "name": "Werther’s Original",
+            "productTypeId": 1,
+            "price": 3.59
+        },
+        {
+            "id":4,
+            "name": "Pop Rocks",
+            "productTypeId": 4,
+            "price": 1.59
+        },
+        {
+            "id":5,
+            "name": "Almond Joy",
+            "productTypeId": 3,
+            "price": 1.99
+        },
+        {
+            "id":6,
+            "name": "Dubble Bubble",
+            "productTypeId": 2,
+            "price": 1.29
+        }
+    ],
+    "locations": [
+        {
+            "id": 1,
+            "address": "2695 Adams Avenue",
+            "squareFootage": 1000,
+            "handicapAccessible": true
+        },
+        {
+            "id": 2,
+            "address": "300 Monkey dr",
+            "squareFootage": 500,
+            "handicapAccessible": false
+        }
+    ],
+    "employees": [],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "type": "Gum" 
+        },
+        {
+            "id": 3,
+            "type": "Chocolate" 
+        },
+        {
+            "id": 4,
+            "type": "Sodas" 
+        } ],
+    "customers": []
+}
